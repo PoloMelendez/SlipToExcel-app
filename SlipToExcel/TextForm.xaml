@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="SlipToExcel.TextForm"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SlipToExcel"
+             mc:Ignorable="d"
+             x:Name="MyUserControl"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="2*"/>
+        </Grid.ColumnDefinitions>
+        <Button Content="{ Binding ButtonContent, 
+                ElementName=MyUserControl }"
+            Name="buttonLabel"
+            Grid.Column="0"
+            Click="buttonLabel_Click"/>
+        <TextBox  
+            Name="textBox"
+            Text="{ Binding TextContent, 
+                ElementName=MyUserControl }"
+            HorizontalAlignment="Stretch"
+            VerticalContentAlignment="Center"
+            Grid.Column="1"
+            IsReadOnly="{ Binding isProtected, 
+                ElementName=MyUserControl }"
+            GotFocus="textBox_GotFocus"/>
+    </Grid>
+</UserControl>

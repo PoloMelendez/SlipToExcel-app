@@ -1,0 +1,86 @@
+﻿<Window x:Class="SlipToExcel.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:control="clr-namespace:SlipToExcel"
+        xmlns:local="clr-namespace:SlipToExcel"
+        mc:Ignorable="d"
+        Title="Slip To Excel" d:DesignHeight="500" d:DesignWidth="1000">
+    
+    <Grid Margin="10">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" MinWidth="250"/>
+            <ColumnDefinition Width="*" MinWidth="250"/>
+            <ColumnDefinition Width="10"/>
+            <ColumnDefinition Width="*" MinWidth="250"/>
+            <ColumnDefinition Width="*" MinWidth="250"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="2*"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*" MinHeight="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <!--Left Side -->
+        <Rectangle Grid.Column="0" Grid.ColumnSpan="2" Grid.RowSpan="10" Fill="Silver"/>
+        <Border BorderBrush="Firebrick" BorderThickness="5" 
+                Grid.ColumnSpan="2" Grid.RowSpan="10"></Border>
+        <Image Name="EconomyLogo" Grid.Row="0" Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Source="Resources/EconomyLogo.png"/>
+        <control:TextForm Grid.Column="0" Grid.Row="1"
+                          Margin="10 15"
+                          x:Name="PackingSlipName"
+                          TextContent="Select one, or more, packing slips"
+                          ButtonContent="Packing Slip"
+                          TextFormClicked="PackingSlipName_TextFormClicked"/>
+        <StackPanel Name="SlipsPanel" Grid.Column="0" Grid.Row="2">
+        </StackPanel>
+        <TextBox Name="PreviewSlips" Grid.Column="0" Grid.Row="3"
+                 Grid.RowSpan="5" Grid.ColumnSpan="2" Margin="20"
+                 Visibility="Collapsed" Height="auto"/>
+
+
+        <!--Right Side -->
+        <Rectangle Grid.Column="3" Grid.ColumnSpan="2" Grid.RowSpan="10" Fill="#1E7447"/>
+        <Image Name="ExcelLogo" Grid.Row="0" Grid.Column="3"
+               Grid.ColumnSpan="2" 
+               Source="Resources/ExcelLogo.png"/>
+        <control:TextForm Grid.Column="3" Grid.Row="3"
+                          Margin="10 15"
+                          x:Name="WorkBookName"
+                          TextContent="{Binding Workbook,
+                            UpdateSourceTrigger=PropertyChanged }"
+                          ButtonContent="Workbook"
+                          isProtected="True"
+                          TextFormClicked="WorkBookName_TextFormClicked"/>
+        <control:TextForm Grid.Column="3" Grid.Row="4" 
+                          Margin="10 15"
+                          x:Name="SheetName"
+                          TextContent="{Binding Worksheet,
+                            UpdateSourceTrigger=PropertyChanged }"
+                          isProtected="False" 
+                          ButtonContent="Worksheet"/>
+        <control:TextForm Grid.Column="3" Grid.Row="5"
+                          Margin="10 15"
+                          x:Name="TemplateName"
+                          TextContent="{Binding Template,
+                            UpdateSourceTrigger=PropertyChanged }"
+                          isProtected="True"
+                          ButtonContent="Template"
+                          TextFormClicked="TemplateName_TextFormClicked"/>
+        <Button Name="ConvertButton" Content="Convert" FontWeight="Black" 
+                Grid.Column="3" Grid.Row="8"
+                Grid.ColumnSpan="2" MaxWidth="150" MaxHeight="50"
+                Click="ConvertButton_Click"/>
+        <Image Name="CheckMark" Grid.Row="8" Grid.Column="3"
+               Source="Resources/CheckMark.png" Visibility="Hidden"/>
+    </Grid>
+</Window>
