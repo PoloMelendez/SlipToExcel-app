@@ -8,7 +8,7 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace SlipToExcel
 {
-    //Accesses an existing excel workbook, creates a new worksheet, and adds values to it
+    //Accesses an existing excel workbook, creates a new worksheet, and adds part descriptions and prices to it
     class ExcelBuilder
     {
         private string WorkbookPath = null;
