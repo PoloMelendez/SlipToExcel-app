@@ -1,0 +1,175 @@
+                                     INVOICE
+
+
+  PARTS DEALER, INC.                                       Invoice No.:9999999
+                                                              Cust No.:ECONMY
+  9999 FAKE BLVD.
+  FAKE, CA 99999, USA                                       SO No.:99999
+  Fax:999/999-9999,Tel:999/999-9999 Toll Free:999/999-9999         09/09/99
+
+Sold To:                                Ship To:
+  FAKE BODY PARTS				          FAKE BODY PARTS
+  9999 FAKE AVE.                     	  9999 FAKE AVE.               
+  BAKERSFIELD, CA 93307                   BAKERSFIELD, CA 99999             
+  PERMIT:SR DFB 999-999999    999/999-9999                                                   
+
+SP -----Ship Via-------- ---FOB---- --------Terms--------- ----Your Order #-----
+CM .... TRUCK        Origin     NEXT MONDAY            ALFONSO
+
+ Ordr  Ship  Car Model     Item / Description                Price    Ext Price
+----- ----- ----------  ----------------------------------- -------- -----------
+    1     1 S-PU        GR3207A0                           L    9.99
+                        GRILLE 94-97 DK ARG  SEAL BEAM TYPE     9.99        9.99
+                        S10=BLZR 95-97)                    
+    1     1 JETTA       VK2206BFI                          L    9.99
+                        BP REINF.F.11-17 SDN        (JETTA)     9.99        9.99
+    1     1 CHEVY PU    GR0307K0C                          L    9.99
+                        GRILLE 94-99 COMPOSIT ALL CHR(CHEVY     9.99        9.99
+                        DUAL S.B.1PC =BLZR/SUBR 94-99      
+    1     1 CHEVY PU    CPS01 / LOCAL!!                    L    9.99
+                        *CRYSTL DIAMDCUT TURN SGNL 88-99 PU     9.99        9.99
+                        BLZ/SUBRB/TAHO/YUK(PAIR)<CWC-CE13> 
+    1     1 SENTRA      DS6914B1                           L    9.99
+                        BP BRKT F.LH 13-15 PLSTC (BP RETANR     9.99        9.99
+    1     1 CHEVY PU    GR0306AFQ                          L    9.99
+                        BP F.88-99 CHR WO MLDG WO AIR(CV PU     9.99        9.99
+                        INTAKE W/LICENSE HL  *GOOD QUALITY"
+    1     1 COROLLA     TY09012                            L    9.99
+                        FENDER RH 03-08 CE/LE WO LP (COROLA     9.99        9.99
+    1     1 COROLLA     TY0906AF                           L    9.99
+                        BP CV F.03-04 CE/LE PRM WO VAL.HOLE     9.99        9.99
+                        (COROLLA)                          
+    1     1 RANGER      PW037A                             L    9.99
+                        HEAD PANEL 93-97 GR OPNG PNL(RANGR)     9.99        9.99
+    1     1 CIVIC       HD0906FF                           L    9.99
+                        BP CV F.96-98 PRM           (CIVIC)     9.99        9.99
+    1     1 FORTE       OK1603A                            L    9.99
+                        RAD.SUPT.ASSY.10-13 SDN     (FORTE/     9.99        9.99
+                        FORTE KOUP/11-13 HB FORTE)         
+    1     1 CHARGER     DG5903A                            L    9.99
+                        RAD.SUPR.UPPR.11-14       (CHARGER)     9.99        9.99
+                        (UPPR TIE BAR)                     
+    1     1 CHARGER     DG5907B0                           L    9.99
+                        GRILLE UPPR 11-14 BLK     (CHARGER)     9.99        9.99
+
+
+
+ Page 1
+
+                        ( Continued )                                     INVOICE
+
+
+  PARTS DEALER, INC.                                       Invoice No.:9999999
+                                                              Cust No.:ECONMY
+
+
+
+ Ordr  Ship  Car Model     Item / Description                Price    Ext Price
+----- ----- ----------  ----------------------------------- -------- -----------
+    1     1 CAMRY       TY3518A1-IN                        L    9.99
+                        DR HANDL INNR F=R.LH 97-01 GRAY         9.99        9.99
+                        (CAMRY/98-03 SIENNA)               
+    1     1 COROLLA     TY0718B1-IN                        L    9.99
+                        DR HANDL INN F=R LH 98-02 LIGT-BEIG     9.99        9.99
+                        MANUAL LOCK (COROLLA)              
+    1     1 CARAVAN     DG3706BF                           L    9.99
+                        BP CV F.01-04 PRM BASE/SE/SPT(CARVN     9.99        9.99
+                        /GD CARVN EL/EX/SE/SPT)WO FOG SMOTH
+    1     1 CARAVAN     DG37012                            L    9.99
+                        FENDER RH 01-07 (CARVN/VOYG/TW&CNT/     9.99        9.99
+                        /GD CARAVAN)[NON-CAPA]   W/ANT HOLE
+    1     1 CARAVAN     U-2311                             L    9.99
+                        +RADIATR 01-04 AT V6 3.3/3.8L (CRVN     9.99        9.99
+                        TWN&CNTRY/GD CARAVN)               
+    1     1 CARAVAN     20-6021-00B                        L    9.99
+                        HEAD LP RH 01-07(CARAVAN/GD CARAVAN     9.99        9.99
+                        /01-04 VOYAGER/TOWN&CNTRY 113" WB) 
+    1     1 CARAVAN     20-6022-00B                        L    9.99
+                        HEAD LP LH 01-07(CARAVAN/GD CARAVAN     9.99        9.99
+                        /01-04 VOYAGER/TOWN&CNTRY 113" WB) 
+    1     1 CAMRY       TY55012                            L    9.99
+                        FENDER RH 07-11 USA         (CAMRY/     9.99        9.99
+                        HYBRID)                            
+    1     1 CAMRY       TY550670                           L    9.99
+                        BP GRILLE F.07-09 BLK       (CAMRY/     9.99        9.99
+                        HYBRID)                            
+    1     1 CAMRY       TY550671                           L    9.99
+                        .FOG LP COVER LH 07-09 LE,XLE (CAMR     9.99        9.99
+                        WO FOG                             
+    1     1 CAMRY       TY550672                           L    9.99
+                        .FOG LP COVER RH 07-09 LE,XLE (CAMR     9.99        9.99
+                        WO FOG                             
+    1     1 SILVERADO   GR0418A1                           L    9.99
+                        DR HANDL OUTR R.LH 99-07 TEXT-BLK       9.99        9.99
+                        WO KEY EXTEND CAB (SILVD/SIERRA)   
+    1     1 VERSA       DS5002                             L    9.99
+                        HOOD 07-11 SDN/HB           (VERSA)     9.99        9.99
+    1     1 VERSA       DS50020                            L    9.99
+                        HOOD LATCH 07-11 SDN/HB     (VERSA)     9.99        9.99
+    1     1 ALTIMA      DS13012                            L    9.99
+                        FENDER RH 02-06            (ALTIMA)     9.99        9.99
+    1     1 COROLLA     TY0906FF                           L    9.99
+                        #BP CV F.05-08 CE/LE PRM  (COROLLA)     9.99        9.99
+
+
+ Page 2
+
+                        ( Continued )                                     INVOICE
+
+
+  PARTS DEALER, INC.                                       Invoice No.:9999999
+                                                              Cust No.:ECONMY
+
+
+
+ Ordr  Ship  Car Model     Item / Description                Price    Ext Price
+----- ----- ----------  ----------------------------------- -------- -----------
+    1     1 COROLLA     TY0907C0                           L    9.99
+                        GRILLE 05-08 CE/LE CHR/GRY(COROLLA)     9.99        9.99
+    1     1 G37         IN0106JF-C                         L    9.99
+                        BP CV F.10-13 SDN PRM BASE/JOURNEY      9.99        9.99
+                        (G37/11-12 G25)   [CAPA!]          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   Total Weight:   24.35 lb
+                                                        Subtotal         9999.99
+                                                             Tax            0.00
+   Page 3                                           Total Amount         9999.99
